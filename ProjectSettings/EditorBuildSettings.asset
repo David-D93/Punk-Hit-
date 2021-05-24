@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Punk Hit/Scenes/Scene prototipo/Menu.unity
+    guid: 2c45cfed73582f24786b00b46999ac30
   - enabled: 1
-    path: Assets/Punk Hit/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Punk Hit/Scenes/Scene prototipo/Movimento.unity
+    guid: 1a6282b49d45095468721fb09a2eab43
   m_configObjects: {}
